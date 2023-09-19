@@ -1,2 +1,2 @@
 # tracetofile
-Debug harness for PHP - trace line, trace object(s), trace back.
+Debug trace harness for PHP - trace PHP by line number, trace object(s), with trace back function.
